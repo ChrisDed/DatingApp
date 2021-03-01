@@ -9,3 +9,9 @@
 .navbar-dark .navbar-nav .nav-link.active {
     color: #fff;
 }
+
+img {
+	max-height: 50px;
+	border: 2px solid #fff;
+	display: inline;
+}
